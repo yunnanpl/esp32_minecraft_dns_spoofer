@@ -45,6 +45,10 @@ Still, there was a possiblity to create Virtual LAN, and still use it
 
 * now, the newer versions seem to use RakNet protocol... so it is not clear to me if there is a way to spoof it
 
+# Requirements and references
+Uses slightly changed MicroDNSSrv project:
+ * https://github.com/jczic/MicroDNSSrv
+
 ## Other sources
 * Minecraft detector and faker
   * https://github.com/ksaidev/Minecraft-Detector
